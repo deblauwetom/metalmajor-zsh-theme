@@ -1,6 +1,13 @@
 # metalmajor-zsh-theme
 
-# How to install
+## Features
+
+- Show the time next to every command
+- After a command was run, shows the exit code if it was not 0
+- Shows the full directory in the prompt so you can easily copy-paste it
+- If inside a git repo, shows the branch name, and status
+
+## How to install
 
 Install on linux or macos zsh with `brew install zsh` or `apt install zsh`
 
@@ -31,5 +38,5 @@ Re-login or type zsh to see it in action.
 Things to try:
 - CTRL-R to see awesome reverse search. 
 - CTRL-T will find a file in the current directory and below.
-- cd <TAB><TAB> and using arrows you can select an entry
+- For command argument completion, press TAB twice and then using the arrows you can select an entry.
   
