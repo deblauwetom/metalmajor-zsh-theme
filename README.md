@@ -39,4 +39,4 @@ Things to try:
 - CTRL-R to see awesome reverse search. 
 - CTRL-T will find a file in the current directory and below.
 - For command argument completion, press TAB twice and then using the arrows you can select an entry.
-  
+- To cd into a previous directory, type "cd -" and then TAB.  
