@@ -1,5 +1,7 @@
 # metalmajor-zsh-theme
 
+![Alt text](/metalmajor-zsh-theme-screenshot.png?raw=true "metalmajor-zsh-screenshot")
+
 ## Features
 
 - Show the time next to every command
@@ -10,8 +12,6 @@
 
 
 ## Preview
-
-![Alt text](/metalmajor-zsh-theme-screenshot.png?raw=true "metalmajor-zsh-screenshot")
 
 ![Alt text](/example-use-metalmajor-zsh.gif?raw=true "metalmajor-zsh-gif")
 
