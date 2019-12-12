@@ -6,9 +6,12 @@
 - After a command was run, shows the exit code if it was not 0
 - Shows the full directory in the prompt so you can easily copy-paste it
 - If inside a git repo, shows the branch name, and status
-- Keeps on one line, and shows all info on the left side, because that is where I am always looking
+- Keeps the info on one line, and on the left side, because that is where I am always looking
+
 
 ## Preview
+
+![Alt text](/metalmajor-zsh-theme-screenshot.png?raw=true "metalmajor-zsh-screenshot")
 
 A screen recording you can download: https://drive.google.com/open?id=1uBJv8QZ_MnhEgxFM130kwaxKDYUVjKaP
 
@@ -46,3 +49,8 @@ Things to try:
 - CTRL-T will find a file in the current directory and below.
 - For command argument completion, press TAB twice and then using the arrows you can select an entry.
 - To cd into a previous directory, type "cd -" and then TAB.  
+
+
+## License
+
+MIT License
