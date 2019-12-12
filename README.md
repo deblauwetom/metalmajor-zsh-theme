@@ -13,7 +13,7 @@
 
 ![Alt text](/metalmajor-zsh-theme-screenshot.png?raw=true "metalmajor-zsh-screenshot")
 
-A screen recording you can download: https://drive.google.com/open?id=1uBJv8QZ_MnhEgxFM130kwaxKDYUVjKaP
+![Alt text](/example-use-metalmajor-zsh.gif?raw=true "metalmajor-zsh-gif")
 
 
 ## How to install
