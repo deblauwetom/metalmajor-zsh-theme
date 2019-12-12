@@ -9,7 +9,7 @@
 - Shows the full directory in the prompt so you can easily copy-paste it
 - If inside a git repo, shows the branch name, and status
 - Keeps the info on one line, and on the left side, because that is where I am always looking
-
+- Always shows your current working directory so text-selecting it for copy-paste is easy by a double click
 
 ## Preview
 
